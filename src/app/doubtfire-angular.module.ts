@@ -225,7 +225,7 @@ import {TasksViewerComponent} from './units/states/tasks/tasks-viewer/tasks-view
 import {UnitCodeComponent} from './common/unit-code/unit-code.component';
 import {GradeService} from './common/services/grade.service';
 
-import {GroupSetSelectorComponent} from '/workspace/doubtfire-web/src/app/groups/group-set-selector/group-set-selector.component';
+import {GroupSetSelectorComponent} from './groups/group-set-selector/group-set-selector.component';
 @NgModule({
   // Components we declare
   declarations: [
